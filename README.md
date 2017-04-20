@@ -1,4 +1,7 @@
-# test coverage for  [co-request (v1.0.0)](https://github.com/leukhin/co-request#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-co-request.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-request.svg)](https://travis-ci.org/npmtest/node-npmtest-co-request)
+# npmtest-co-request
+
+#### basic test coverage for  [co-request (v1.0.0)](https://github.com/leukhin/co-request#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-co-request.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-request.svg)](https://travis-ci.org/npmtest/node-npmtest-co-request)
+
 #### co-request promisify wrapper for request
 
 [![NPM](https://nodei.co/npm/co-request.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/co-request)
